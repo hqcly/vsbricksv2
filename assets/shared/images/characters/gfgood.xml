@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfgood.png">
+<SubTexture name="left0000" x="300" y="331" width="300" height="290" frameX="-382" frameY="-364" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="left0001" x="600" y="0" width="300" height="319" frameX="-382" frameY="-335" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="left0002" x="0" y="0" width="300" height="331" frameX="-382" frameY="-323" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="left0003" x="0" y="0" width="300" height="331" frameX="-382" frameY="-323" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="right0000" x="0" y="331" width="300" height="302" frameX="-382" frameY="-352" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="right0001" x="300" y="0" width="300" height="324" frameX="-382" frameY="-330" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="right0002" x="0" y="0" width="300" height="331" frameX="-382" frameY="-323" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="right0003" x="0" y="0" width="300" height="331" frameX="-382" frameY="-323" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

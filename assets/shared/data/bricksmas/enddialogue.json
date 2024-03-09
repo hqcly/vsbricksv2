@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "bricks",
+			"speed": 0.045,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey.. that was actually fun!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yeah!"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "maybe you both arent that bad.."
+		},
+		{
+			"sound": "  ",
+			"speed": 0.05,
+			"portrait": "literallyapixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "end!"
+		},
+		{
+			"sound": " ",
+			"speed": 0.05,
+			"portrait": "literallyapixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "more songs in freeplay!"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bricksjolly.png">
+<SubTexture name="bricksjolly idle0000" x="2638" y="819" width="437" height="816" frameX="-269" frameY="-99" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly idle0001" x="2201" y="0" width="437" height="840" frameX="-268" frameY="-75" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly idle0002" x="1177" y="0" width="436" height="852" frameX="-268" frameY="-63" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly up0000" x="0" y="0" width="589" height="858" frameX="-229" frameY="-57" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly up0001" x="589" y="0" width="588" height="854" frameX="-217" frameY="-61" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly up0002" x="1613" y="0" width="588" height="852" frameX="-209" frameY="-63" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly left0000" x="519" y="1706" width="521" height="835" frameX="-162" frameY="-80" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly left0001" x="0" y="1706" width="519" height="840" frameX="-168" frameY="-75" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly left0002" x="1334" y="858" width="517" height="842" frameX="-176" frameY="-73" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly right0000" x="1540" y="1706" width="681" height="834" frameX="-263" frameY="-81" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly right0001" x="664" y="858" width="670" height="844" frameX="-245" frameY="-71" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly right0002" x="0" y="858" width="664" height="848" frameX="-234" frameY="-67" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly down0000" x="3202" y="0" width="619" height="808" frameX="-198" frameY="-107" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly down0001" x="2638" y="0" width="564" height="819" frameX="-220" frameY="-96" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricksjolly down0002" x="1040" y="1706" width="500" height="835" frameX="-250" frameY="-80" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

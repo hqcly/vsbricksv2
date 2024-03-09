@@ -1,0 +1,141 @@
+{
+	"song": {
+		"events": [
+			[
+				11294.1176470588,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bricksreal2"
+					]
+				]
+			],
+			[
+				16941.1764705882,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bricksreal"
+					]
+				]
+			],
+			[
+				171630.3381195,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bricksrealexplosion"
+					],
+					[
+						"Play Animation",
+						"explode",
+						"dad"
+					]
+				]
+			],
+			[
+				176451.661648911,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bricksreal"
+					]
+				]
+			],
+			[
+				312813.531396811,
+				[
+					[
+						"Change Character",
+						"dad",
+						"concrete-slab"
+					]
+				]
+			],
+			[
+				326527.817111096,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tankman"
+					]
+				]
+			],
+			[
+				332956.388539668,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			],
+			[
+				353956.388539668,
+				[
+					[
+						"Change Character",
+						"dad",
+						"concrete-slab"
+					]
+				]
+			],
+			[
+				397519.413749753,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bricksreal"
+					]
+				]
+			],
+			[
+				461048.825514458,
+				[
+					[
+						"Change Character",
+						"dad",
+						"remy"
+					]
+				]
+			],
+			[
+				492107.64904387,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bricksreal"
+					]
+				]
+			],
+			[
+				520342.943161517,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bricksreal2"
+					]
+				]
+			],
+			[
+				554225.296102695,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bricksreal"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="todbopper.png">
+<SubTexture name="todbopper danceRight0000" x="266" y="426" width="262" height="417" frameX="-394" frameY="-323" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="todbopper danceRight0001" x="258" y="0" width="261" height="425" frameX="-391" frameY="-314" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="todbopper danceRight0002" x="0" y="0" width="258" height="426" frameX="-389" frameY="-313" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="todbopper danceLeft0000" x="0" y="426" width="266" height="421" frameX="-380" frameY="-317" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="todbopper danceLeft0001" x="519" y="0" width="265" height="425" frameX="-386" frameY="-312" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="todbopper danceLeft0002" x="784" y="0" width="262" height="424" frameX="-394" frameY="-313" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

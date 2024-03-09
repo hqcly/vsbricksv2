@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "bricksblox idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bricksblox left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bricksblox down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bricksblox right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bricksblox up"
+		},
+		{
+			"offsets": [
+				-23,
+				-93
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bricksblox miss"
+		},
+		{
+			"offsets": [
+				-23,
+				-93
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "bricksblox miss"
+		},
+		{
+			"offsets": [
+				-23,
+				-93
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bricksblox miss"
+		},
+		{
+			"offsets": [
+				-23,
+				-93
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRightmiss",
+			"loop": false,
+			"name": "bricksblox miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bricksblox",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bricksroblox",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		104,
+		164
+	],
+	"camera_position": [
+		90,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

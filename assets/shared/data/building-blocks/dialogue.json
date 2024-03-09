@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "bricks",
+			"speed": 0.06,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how was that"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yeah!!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop bop..."
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.035,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "dude.. i cant understand what you are saying.."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "oh.. he said he wanted another song"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.035,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "uhm.. okay.. i dont understand but i dont really care"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "lets just get this over with"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-180,
+		-260
+	],
+	"scale": 0.75,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bricks dialog talk",
+			"idle_name": "bricks dialog talk002"
+		},
+		{
+			"loop_name": "bricks dialog angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bricks dialog angry002",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bricks dialog annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bricks dialog annoyed002",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bricks dialog confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bricks dialog confused002",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bricks dialog"
+}

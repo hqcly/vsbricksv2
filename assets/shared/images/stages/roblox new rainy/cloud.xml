@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cloud.png">
+<SubTexture name="poop0000" x="326" y="0" width="311" height="245" frameX="-259" frameY="-276" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="poop0001" x="0" y="249" width="325" height="245" frameX="-242" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="poop0002" x="0" y="0" width="326" height="249" frameX="-254" frameY="-286" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="poop0003" x="637" y="0" width="352" height="243" frameX="-227" frameY="-294" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

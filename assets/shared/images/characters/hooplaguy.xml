@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hooplaguy.png">
+<SubTexture name="idle0000" x="1201" y="1007" width="107" height="184" frameX="-423" frameY="-427" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0001" x="652" y="364" width="103" height="191" frameX="-427" frameY="-420" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0002" x="1259" y="752" width="100" height="203" frameX="-431" frameY="-408" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0003" x="1126" y="517" width="93" height="215" frameX="-439" frameY="-396" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0004" x="1126" y="517" width="93" height="215" frameX="-439" frameY="-396" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla up0000" x="0" y="0" width="380" height="364" frameX="-169" frameY="-247" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla up0001" x="380" y="0" width="380" height="350" frameX="-167" frameY="-261" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla up0002" x="0" y="364" width="368" height="331" frameX="-180" frameY="-280" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla up0003" x="0" y="364" width="368" height="331" frameX="-180" frameY="-280" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla right0000" x="760" y="316" width="245" height="303" frameX="-331" frameY="-309" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla right0001" x="760" y="0" width="257" height="316" frameX="-300" frameY="-296" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla right0002" x="368" y="364" width="284" height="321" frameX="-255" frameY="-292" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla right0003" x="368" y="364" width="284" height="321" frameX="-255" frameY="-292" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla down0000" x="358" y="1007" width="373" height="212" frameX="-187" frameY="-406" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla down0001" x="0" y="1007" width="358" height="229" frameX="-212" frameY="-383" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla down0002" x="421" y="695" width="320" height="271" frameX="-238" frameY="-341" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla down0003" x="421" y="695" width="320" height="271" frameX="-238" frameY="-341" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla left0000" x="0" y="695" width="421" height="312" frameX="-109" frameY="-299" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla left0001" x="1017" y="0" width="353" height="266" frameX="-196" frameY="-345" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla left0002" x="1017" y="266" width="321" height="251" frameX="-220" frameY="-360" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="hoopla left0003" x="1017" y="266" width="321" height="251" frameX="-220" frameY="-360" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="up Miss0000" x="1017" y="517" width="109" height="235" frameX="-424" frameY="-374" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="up Miss0001" x="1219" y="517" width="108" height="208" frameX="-432" frameY="-401" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="up Miss0002" x="1219" y="517" width="108" height="208" frameX="-432" frameY="-401" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="left Miss0000" x="1017" y="752" width="242" height="204" frameX="-350" frameY="-402" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="left Miss0001" x="741" y="695" width="236" height="200" frameX="-371" frameY="-406" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="left Miss0002" x="741" y="695" width="236" height="200" frameX="-371" frameY="-406" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="down Miss0000" x="259" y="1236" width="261" height="85" frameX="-443" frameY="-540" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="down Miss0001" x="0" y="1236" width="259" height="103" frameX="-441" frameY="-522" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="down Miss0002" x="0" y="1236" width="259" height="103" frameX="-441" frameY="-522" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="right Miss0000" x="962" y="1007" width="239" height="189" frameX="-452" frameY="-418" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="right Miss0001" x="731" y="1007" width="231" height="197" frameX="-444" frameY="-410" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="right Miss0002" x="731" y="1007" width="231" height="197" frameX="-444" frameY="-410" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

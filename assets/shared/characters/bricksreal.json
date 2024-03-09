@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bricksreal idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bricksreal",
+	"position": [
+		-550,
+		-170
+	],
+	"healthicon": "brickreal",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		115,
+		170
+	],
+	"camera_position": [
+		560,
+		470
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

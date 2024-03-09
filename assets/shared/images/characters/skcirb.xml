@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skcirb.png">
+<SubTexture name="skcrib idle0000" x="1546" y="0" width="331" height="474" frameX="-195" frameY="-102" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib idle0001" x="0" y="1010" width="330" height="485" frameX="-193" frameY="-90" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib idle0002" x="1123" y="492" width="330" height="487" frameX="-190" frameY="-88" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib left0000" x="374" y="0" width="375" height="507" frameX="-149" frameY="-75" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib left0001" x="749" y="0" width="374" height="506" frameX="-155" frameY="-76" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib left0002" x="0" y="0" width="374" height="509" frameX="-160" frameY="-73" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib right0000" x="1022" y="1010" width="344" height="479" frameX="-191" frameY="-100" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib right0001" x="676" y="1010" width="346" height="481" frameX="-177" frameY="-98" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib right0002" x="330" y="1010" width="346" height="485" frameX="-168" frameY="-94" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib down0000" x="1877" y="919" width="337" height="448" frameX="-178" frameY="-128" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib down0001" x="1877" y="462" width="340" height="457" frameX="-172" frameY="-118" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib down0002" x="1877" y="0" width="341" height="462" frameX="-169" frameY="-113" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib up0000" x="0" y="509" width="423" height="501" frameX="-133" frameY="-74" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib up0001" x="423" y="509" width="422" height="495" frameX="-139" frameY="-80" frameWidth="700" frameHeight="700" />
+<SubTexture name="skcrib up0002" x="1123" y="0" width="423" height="492" frameX="-137" frameY="-83" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

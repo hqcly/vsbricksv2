@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "santa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "santa left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "santa down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-18
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "santa up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "santa right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/santa",
+	"position": [
+		-290,
+		-70
+	],
+	"healthicon": "santa",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		70,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

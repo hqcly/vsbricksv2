@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bricks.png">
+<SubTexture name="bricks idle0000" x="3770" y="0" width="609" height="1042" frameX="-380" frameY="-272" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks idle0001" x="1677" y="2198" width="607" height="1056" frameX="-375" frameY="-258" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks idle0002" x="2359" y="1131" width="606" height="1061" frameX="-372" frameY="-253" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks idle0003" x="1756" y="1131" width="603" height="1063" frameX="-372" frameY="-251" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks up0000" x="0" y="0" width="713" height="1131" frameX="-326" frameY="-183" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks up0001" x="713" y="0" width="711" height="1096" frameX="-333" frameY="-218" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks up0002" x="1424" y="0" width="711" height="1082" frameX="-329" frameY="-232" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks down0000" x="0" y="3261" width="921" height="1016" frameX="-261" frameY="-299" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks down0001" x="2284" y="2198" width="922" height="1045" frameX="-251" frameY="-269" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks down0002" x="754" y="2198" width="923" height="1057" frameX="-249" frameY="-257" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks left0000" x="3007" y="0" width="763" height="1063" frameX="-196" frameY="-251" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks left0001" x="3007" y="1063" width="757" height="1063" frameX="-210" frameY="-251" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks left0002" x="0" y="2198" width="754" height="1063" frameX="-220" frameY="-251" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks right0000" x="875" y="1131" width="881" height="1066" frameX="-372" frameY="-248" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks right0001" x="0" y="1131" width="875" height="1067" frameX="-342" frameY="-247" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks right0002" x="2135" y="0" width="872" height="1068" frameX="-322" frameY="-246" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

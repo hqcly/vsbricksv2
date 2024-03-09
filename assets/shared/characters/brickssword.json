@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bricks sword down"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bricks sword up"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bricks sword left"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bricks sword right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": "bricks sword idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bricks sword",
+	"position": [
+		-300,
+		-340
+	],
+	"healthicon": "bricksicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		104,
+		164
+	],
+	"camera_position": [
+		230,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.65
+}

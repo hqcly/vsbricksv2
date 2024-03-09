@@ -1,0 +1,149 @@
+{
+	"songs": [
+		[
+			"tough love",
+			"CinderTL",
+			[
+				162,
+				223,
+				255
+			]
+		],
+		[
+			"17bricks",
+			"17brick",
+			[
+				6,
+				50,
+				96
+			]
+		],
+		[
+			"brick wall",
+			"brickwall",
+			[
+				197,
+				64,
+				55
+			]
+		],
+		[
+			"daily",
+			"bsgf-pixel",
+			[
+				95,
+				0,
+				194
+			]
+		],
+		[
+			"brick breaker",
+			"mario-pixel",
+			[
+				181,
+				49,
+				32
+			]
+		],
+		[
+			"real",
+			"brickreal",
+			[
+				67,
+				115,
+				170
+			]
+		],
+		[
+			"kickball",
+			"baller",
+			[
+				218,
+				2,
+				0
+			]
+		],
+		[
+			"brown bricks",
+			"gadget",
+			[
+				176,
+				176,
+				176
+			]
+		],
+		[
+			"hoopla",
+			"hoopla",
+			[
+				185,
+				218,
+				149
+			]
+		],
+		[
+			"real2",
+			"brickreal",
+			[
+				67,
+				115,
+				170
+			]
+		],
+		[
+			"rave",
+			"mtsblox",
+			[
+				132,
+				8,
+				18
+			]
+		],
+		[
+			"crit",
+			"todmc-pixel",
+			[
+				201,
+				205,
+				218
+			]
+		],
+		[
+			"brickbattle",
+			"nothing",
+			[
+				0,
+				15,
+				31
+			]
+		],
+		[
+			"content deleted",
+			"bricks-cd",
+			[
+				15,
+				104,
+				164
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "freeplay",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekbrick",
+	"startUnlocked": true
+}

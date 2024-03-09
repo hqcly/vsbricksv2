@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bricks dialog.png">
+<SubTexture name="bricks dialog angry0000" x="1624" y="0" width="811" height="824" frameX="-161" frameY="-122" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog angry0001" x="812" y="0" width="812" height="845" frameX="-160" frameY="-101" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog angry0002" x="0" y="0" width="812" height="851" frameX="-160" frameY="-95" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog annoyed0000" x="1170" y="851" width="586" height="794" frameX="-154" frameY="-90" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog annoyed0001" x="1756" y="851" width="585" height="790" frameX="-158" frameY="-94" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog annoyed0002" x="2435" y="0" width="585" height="789" frameX="-160" frameY="-95" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog confused0000" x="585" y="1668" width="588" height="788" frameX="-162" frameY="-97" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog confused0001" x="1173" y="1668" width="587" height="787" frameX="-161" frameY="-98" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog confused0002" x="2435" y="789" width="585" height="789" frameX="-160" frameY="-95" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog talk0000" x="0" y="851" width="585" height="817" frameX="-160" frameY="-70" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog talk0001" x="585" y="851" width="585" height="801" frameX="-160" frameY="-83" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bricks dialog talk0002" x="0" y="1668" width="585" height="789" frameX="-160" frameY="-95" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

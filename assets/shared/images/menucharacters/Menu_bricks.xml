@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_bricks.png">
+<SubTexture name="M bricks HEY0000" x="490" y="0" width="488" height="718" frameX="-56" frameY="-28" frameWidth="608" frameHeight="775" />
+<SubTexture name="M bricks Idle0000" x="0" y="0" width="490" height="722" frameX="-52" frameY="-31" frameWidth="608" frameHeight="775" />
+<SubTexture name="M bricks Idle0001" x="0" y="0" width="490" height="722" frameX="-52" frameY="-31" frameWidth="608" frameHeight="775" />
+<SubTexture name="M bricks Idle0002" x="0" y="0" width="490" height="722" frameX="-52" frameY="-31" frameWidth="608" frameHeight="775" />
+<SubTexture name="M bricks Idle0003" x="978" y="0" width="488" height="718" frameX="-56" frameY="-28" frameWidth="608" frameHeight="775" />
+<SubTexture name="M bricks Idle0004" x="978" y="0" width="488" height="718" frameX="-56" frameY="-28" frameWidth="608" frameHeight="775" />
+<SubTexture name="M bricks Idle0005" x="978" y="0" width="488" height="718" frameX="-56" frameY="-28" frameWidth="608" frameHeight="775" />
+</TextureAtlas>

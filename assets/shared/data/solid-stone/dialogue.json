@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "bricks",
+			"speed": 0.045,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "alright you had your fun"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "yeah!"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.04,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh so you both gonna leave now or"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "no."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "dop bop boo..."
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.035,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "dude i cant take this guy seriously when he speaks like that"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.04,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he said you suck at singing (which i think so too)"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.035,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "oh."
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "um"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "peanut head"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.025,
+			"portrait": "bricksdialog",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "alright dude ive had enough with you im going to ########"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.03,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "oh yeah i forgot"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.03,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hold on"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.025,
+			"portrait": "bricksdialog",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "im going to.. OOF you.. yeah.."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.055,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sus"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "angry",
+			"expression": "annoyed",
+			"text": " "
+		}
+	]
+}

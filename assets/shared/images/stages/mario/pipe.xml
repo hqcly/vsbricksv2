@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pipe.png">
+<SubTexture name="up0000" x="0" y="0" width="1152" height="704" frameX="0" frameY="0" frameWidth="1152" frameHeight="704" />
+<SubTexture name="up0001" x="1152" y="0" width="1152" height="704" frameX="0" frameY="0" frameWidth="1152" frameHeight="704" />
+<SubTexture name="up0002" x="0" y="704" width="1152" height="704" frameX="0" frameY="0" frameWidth="1152" frameHeight="704" />
+<SubTexture name="down0000" x="1152" y="0" width="1152" height="704" frameX="0" frameY="0" frameWidth="1152" frameHeight="704" />
+<SubTexture name="down0001" x="0" y="0" width="1152" height="704" frameX="0" frameY="0" frameWidth="1152" frameHeight="704" />
+<SubTexture name="down0002" x="1152" y="704" width="1152" height="704" frameX="0" frameY="0" frameWidth="1152" frameHeight="704" />
+</TextureAtlas>

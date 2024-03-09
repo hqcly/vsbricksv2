@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Bricksmas",
+			"bricksicon",
+			[
+				15,
+				104,
+				164
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "jolly",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "christmas with bricks",
+	"weekName": "christmas",
+	"freeplayColor": [
+		15,
+		104,
+		164
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekbrickgang",
+	"startUnlocked": true
+}

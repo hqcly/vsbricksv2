@@ -1,0 +1,50 @@
+{
+	"storyName": "it him",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bricks",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"brick by brick",
+			"bricksicon",
+			[
+				15,
+				104,
+				164
+			]
+		],
+		[
+			"building blocks",
+			"bricksicon",
+			[
+				15,
+				104,
+				164
+			]
+		],
+		[
+			"solid stone",
+			"bricksicon",
+			[
+				15,
+				104,
+				164
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bricks",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bricks"
+}

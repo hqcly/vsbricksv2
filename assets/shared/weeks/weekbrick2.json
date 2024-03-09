@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"recoil",
+			"bricksicon",
+			[
+				15,
+				104,
+				164
+			]
+		],
+		[
+			"stoneworks",
+			"bricksicon",
+			[
+				15,
+				104,
+				164
+			]
+		],
+		[
+			"bluesteel",
+			"bricksicon",
+			[
+				15,
+				104,
+				164
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bricks",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Rematch against bricks",
+	"weekName": "weekbrick2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekbrick",
+	"startUnlocked": true
+}

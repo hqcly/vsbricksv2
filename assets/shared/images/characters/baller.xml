@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baller.png">
+<SubTexture name="baller idle0000" x="1474" y="2291" width="772" height="1100" frameX="-238" frameY="-274" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller idle0001" x="3013" y="1122" width="771" height="1118" frameX="-230" frameY="-256" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller idle0002" x="2237" y="0" width="776" height="1132" frameX="-221" frameY="-242" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller up0000" x="0" y="0" width="1122" height="1159" frameX="-119" frameY="-215" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller up0001" x="1122" y="0" width="1115" height="1148" frameX="-133" frameY="-226" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller up0002" x="0" y="1159" width="1107" height="1132" frameX="-147" frameY="-242" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller right0000" x="851" y="3408" width="849" height="1073" frameX="-227" frameY="-301" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller right0001" x="0" y="3408" width="851" height="1076" frameX="-201" frameY="-298" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller right0002" x="2246" y="2291" width="854" height="1097" frameX="-167" frameY="-277" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller left0000" x="0" y="2291" width="689" height="1117" frameX="-273" frameY="-257" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller left0001" x="1772" y="1159" width="663" height="1126" frameX="-320" frameY="-248" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller left0002" x="1107" y="1159" width="665" height="1127" frameX="-323" frameY="-247" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller down0000" x="3794" y="0" width="787" height="1084" frameX="-232" frameY="-290" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller down0001" x="689" y="2291" width="785" height="1112" frameX="-222" frameY="-262" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="baller down0002" x="3013" y="0" width="781" height="1122" frameX="-219" frameY="-252" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

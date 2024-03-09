@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "marv idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "marv left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "marv down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				4
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "marv up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "marv right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marv",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "marv",
+	"flip_x": false,
+	"healthbar_colors": [
+		132,
+		119,
+		128
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "remy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "remy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-169
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "remy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				44
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "remy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				24
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "remy right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/remy",
+	"position": [
+		-370,
+		50
+	],
+	"healthicon": "remy",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		25,
+		9
+	],
+	"camera_position": [
+		180,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

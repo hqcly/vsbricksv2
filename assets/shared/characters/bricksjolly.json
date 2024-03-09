@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "bricksjolly idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bricksjolly left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bricksjolly down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bricksjolly up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bricksjolly right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bricksjolly",
+	"position": [
+		-170,
+		-100
+	],
+	"healthicon": "bricksicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		104,
+		164
+	],
+	"camera_position": [
+		90,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

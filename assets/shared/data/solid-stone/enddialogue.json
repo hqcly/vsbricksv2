@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "alright.. you win.. ",
+			"boxState": "angry",
+			"sound": "bricks",
+			"speed": 0.04,
+			"portrait": "bricksdialog"
+		},
+		{
+			"expression": "talk",
+			"text": "L",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "annoyed",
+			"text": "um im just gonna leave bye",
+			"boxState": "normal",
+			"sound": "bricks",
+			"speed": 0.04,
+			"portrait": "bricksdialog"
+		},
+		{
+			"expression": "talk",
+			"text": "bricks left the game..",
+			"boxState": "normal",
+			"sound": " ",
+			"speed": 0.04,
+			"portrait": "literallyapixel"
+		}
+	]
+}

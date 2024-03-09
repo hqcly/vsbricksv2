@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "mtsblox idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mtsblox left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mtsblox right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mtsblox down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mtsblox up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mtsblox",
+	"position": [
+		-160,
+		-120
+	],
+	"healthicon": "mtsblox",
+	"flip_x": false,
+	"healthbar_colors": [
+		132,
+		8,
+		18
+	],
+	"camera_position": [
+		-90,
+		-30
+	],
+	"sing_duration": 3,
+	"scale": 1.2
+}

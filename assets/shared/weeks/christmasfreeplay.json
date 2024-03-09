@@ -1,0 +1,50 @@
+{
+	"storyName": "DONT LOOK",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bricks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "freeplay",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bricks",
+		""
+	],
+	"songs": [
+		[
+			"just a",
+			"justa",
+			[
+				244,
+				178,
+				128
+			]
+		],
+		[
+			"suck brick",
+			"marv",
+			[
+				132,
+				119,
+				128
+			]
+		],
+		[
+			"coalbattle",
+			"santa",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "xmas",
+	"hiddenUntilUnlocked": false
+}

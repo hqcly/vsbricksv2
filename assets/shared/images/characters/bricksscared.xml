@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bricksscared.png">
+<SubTexture name="bricksscared idle0000" x="0" y="3400" width="644" height="1102" frameX="-413" frameY="-229" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared idle0001" x="2248" y="2281" width="643" height="1113" frameX="-408" frameY="-217" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared idle0002" x="3375" y="0" width="643" height="1119" frameX="-405" frameY="-211" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared idle0003" x="798" y="1152" width="644" height="1126" frameX="-404" frameY="-204" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared right0000" x="0" y="2281" width="802" height="1119" frameX="-392" frameY="-212" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared right0001" x="2575" y="0" width="800" height="1124" frameX="-373" frameY="-206" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared right0002" x="0" y="1152" width="798" height="1129" frameX="-361" frameY="-201" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared left0000" x="3375" y="1119" width="639" height="1118" frameX="-311" frameY="-212" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared left0001" x="2575" y="1124" width="601" height="1124" frameX="-362" frameY="-206" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared left0002" x="1442" y="1152" width="633" height="1125" frameX="-389" frameY="-205" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared down0000" x="644" y="3400" width="644" height="1086" frameX="-412" frameY="-245" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared down0001" x="4018" y="0" width="643" height="1105" frameX="-410" frameY="-225" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared down0002" x="802" y="2281" width="644" height="1119" frameX="-409" frameY="-211" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared up0000" x="644" y="0" width="643" height="1141" frameX="-417" frameY="-189" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared up0001" x="1287" y="0" width="644" height="1136" frameX="-410" frameY="-194" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared up0002" x="1931" y="0" width="644" height="1131" frameX="-410" frameY="-200" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared right Miss0000" x="0" y="2281" width="802" height="1119" frameX="-392" frameY="-212" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared right Miss0001" x="1446" y="2281" width="802" height="1116" frameX="-399" frameY="-215" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared right Miss0002" x="1446" y="2281" width="802" height="1116" frameX="-399" frameY="-215" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared left Miss0000" x="3375" y="1119" width="639" height="1118" frameX="-311" frameY="-212" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared left Miss0001" x="2891" y="2281" width="640" height="1113" frameX="-307" frameY="-217" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared left Miss0002" x="2891" y="2281" width="640" height="1113" frameX="-307" frameY="-217" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared down Miss0000" x="644" y="3400" width="644" height="1086" frameX="-412" frameY="-245" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared down Miss0001" x="4018" y="1105" width="643" height="1071" frameX="-417" frameY="-260" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared down Miss0002" x="4018" y="1105" width="643" height="1071" frameX="-417" frameY="-260" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared up Miss0000" x="644" y="0" width="643" height="1141" frameX="-417" frameY="-189" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared up Miss0001" x="0" y="0" width="644" height="1152" frameX="-420" frameY="-178" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricksscared up Miss0002" x="0" y="0" width="644" height="1152" frameX="-420" frameY="-178" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

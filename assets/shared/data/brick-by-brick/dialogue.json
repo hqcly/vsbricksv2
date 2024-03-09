@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "bricks",
+			"speed": 0.035,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "buh"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.025,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hes boyfriend"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.035,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh ok"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skibidi bop bop. yes yes."
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "what did he say this time"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.045,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he said he wanted to rap battle"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.045,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "a rap battle?"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "odd.. but okay"
+		}
+	]
+}

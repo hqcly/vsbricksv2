@@ -1,0 +1,2 @@
+HScript library used by Psych Engine and Funkin Cocoa.
+If you're thinking of using this library for something other than Psych or Cocoa, don't. Just use [hscript-improved](https://github.com/FNF-CNE-Devs/hscript-improved) instead.

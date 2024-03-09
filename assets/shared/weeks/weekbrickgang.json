@@ -1,0 +1,68 @@
+{
+	"storyName": "Theres more?",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bricks",
+	"weekBefore": "weekbrick2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sketched",
+			"robert",
+			[
+				234,
+				0,
+				0
+			]
+		],
+		[
+			"buzz",
+			"flora",
+			[
+				255,
+				252,
+				95
+			]
+		],
+		[
+			"gunk",
+			"garbo",
+			[
+				64,
+				114,
+				44
+			]
+		],
+		[
+			"doze",
+			"phoebe",
+			[
+				83,
+				42,
+				96
+			]
+		],
+		[
+			"haunted",
+			"skcirb",
+			[
+				30,
+				29,
+				35
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "WeekBrickGang"
+}

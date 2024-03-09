@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="harry.png">
+<SubTexture name="harry right0000" x="0" y="825" width="609" height="399" frameX="-183" frameY="-322" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="harry right0001" x="615" y="419" width="609" height="404" frameX="-181" frameY="-317" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="harry right0002" x="0" y="0" width="611" height="419" frameX="-175" frameY="-302" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="harry left0000" x="0" y="419" width="615" height="406" frameX="-168" frameY="-315" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="harry left0001" x="611" y="0" width="614" height="413" frameX="-171" frameY="-308" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="harry left0002" x="0" y="0" width="611" height="419" frameX="-175" frameY="-302" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

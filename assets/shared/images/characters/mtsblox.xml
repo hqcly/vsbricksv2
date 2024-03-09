@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mtsblox.png">
+<SubTexture name="mtsblox idle0000" x="0" y="0" width="382" height="639" frameX="-282" frameY="-216" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox idle0001" x="769" y="0" width="376" height="632" frameX="-281" frameY="-223" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox idle0002" x="1531" y="623" width="368" height="618" frameX="-280" frameY="-237" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox right0000" x="0" y="639" width="439" height="627" frameX="-294" frameY="-236" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox right0001" x="819" y="639" width="402" height="623" frameX="-282" frameY="-233" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox right0002" x="1531" y="0" width="377" height="623" frameX="-279" frameY="-228" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox left0000" x="0" y="1266" width="447" height="620" frameX="-243" frameY="-235" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox left0001" x="447" y="1266" width="446" height="618" frameX="-252" frameY="-237" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox left0002" x="1289" y="1266" width="433" height="607" frameX="-280" frameY="-248" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox down0000" x="382" y="0" width="387" height="634" frameX="-284" frameY="-221" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox down0001" x="1145" y="0" width="386" height="628" frameX="-282" frameY="-227" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox down0002" x="439" y="639" width="380" height="625" frameX="-282" frameY="-230" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox up0000" x="2320" y="0" width="431" height="590" frameX="-280" frameY="-265" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox up0001" x="1908" y="0" width="412" height="602" frameX="-280" frameY="-253" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="mtsblox up0002" x="893" y="1266" width="396" height="612" frameX="-280" frameY="-243" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

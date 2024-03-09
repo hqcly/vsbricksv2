@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "skcrib idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "skcrib left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "skcrib right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "skcrib up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "skcrib down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/skcirb",
+	"position": [
+		-105,
+		40
+	],
+	"healthicon": "skcirb",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		29,
+		35
+	],
+	"camera_position": [
+		-180,
+		-340
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

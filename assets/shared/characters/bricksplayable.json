@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "bricks idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "bricks down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "bricks up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bricks left"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bricks right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bricks",
+	"position": [
+		-570,
+		-410
+	],
+	"healthicon": "bricksicon",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		104,
+		164
+	],
+	"camera_position": [
+		-470,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

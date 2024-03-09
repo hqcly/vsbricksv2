@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "bricks",
+			"speed": 0.045,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh!"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.04,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it just so happens to be christmas!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bee buh bo"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.04,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "its you.."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "a"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we're just here to relax!"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.04,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "not here for trouble.."
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ah."
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.045,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "ill reconsider.. just for today"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.04,
+			"portrait": "bricksdialog",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "but dont make me regret it.."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "boi"
+		},
+		{
+			"sound": "bricks",
+			"speed": 0.05,
+			"portrait": "bricksdialog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets do this"
+		}
+	]
+}

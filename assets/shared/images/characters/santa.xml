@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="santa.png">
+<SubTexture name="santa idle0000" x="475" y="732" width="382" height="679" frameX="-267" frameY="-185" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa idle0001" x="1343" y="0" width="379" height="705" frameX="-267" frameY="-158" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa idle0002" x="481" y="0" width="385" height="721" frameX="-261" frameY="-142" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa right0000" x="2254" y="1035" width="524" height="508" frameX="-310" frameY="-341" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa right0001" x="2254" y="520" width="529" height="515" frameX="-295" frameY="-333" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa right0002" x="2254" y="0" width="542" height="520" frameX="-277" frameY="-328" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa up0000" x="0" y="0" width="481" height="732" frameX="-277" frameY="-124" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa up0001" x="866" y="0" width="477" height="713" frameX="-283" frameY="-143" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa up0002" x="0" y="732" width="475" height="683" frameX="-285" frameY="-173" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa left0000" x="1278" y="1415" width="639" height="616" frameX="-193" frameY="-239" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa left0001" x="640" y="1415" width="638" height="618" frameX="-206" frameY="-237" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa left0002" x="0" y="1415" width="640" height="620" frameX="-212" frameY="-235" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa down0000" x="1722" y="635" width="531" height="608" frameX="-241" frameY="-261" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa down0001" x="1722" y="0" width="532" height="635" frameX="-238" frameY="-233" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="santa down0002" x="857" y="732" width="530" height="658" frameX="-239" frameY="-210" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

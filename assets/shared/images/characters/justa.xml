@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="justa.png">
+<SubTexture name="justa idle0000" x="274" y="853" width="273" height="256" frameX="-140" frameY="-274" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa idle0001" x="0" y="853" width="274" height="264" frameX="-139" frameY="-266" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa idle0002" x="0" y="583" width="271" height="270" frameX="-140" frameY="-260" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa down0000" x="547" y="853" width="283" height="239" frameX="-140" frameY="-293" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa down0001" x="542" y="583" width="285" height="269" frameX="-139" frameY="-263" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa down0002" x="834" y="0" width="283" height="275" frameX="-140" frameY="-256" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa up0000" x="0" y="0" width="283" height="297" frameX="-136" frameY="-234" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa up0001" x="283" y="0" width="281" height="289" frameX="-138" frameY="-242" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa up0002" x="274" y="297" width="279" height="282" frameX="-140" frameY="-249" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa right0000" x="827" y="583" width="275" height="267" frameX="-140" frameY="-263" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa right0001" x="834" y="275" width="274" height="272" frameX="-139" frameY="-258" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa right0002" x="271" y="583" width="271" height="270" frameX="-140" frameY="-260" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa left0000" x="564" y="0" width="270" height="286" frameX="-139" frameY="-244" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa left0001" x="0" y="297" width="274" height="286" frameX="-139" frameY="-245" frameWidth="576" frameHeight="720" />
+<SubTexture name="justa left0002" x="553" y="297" width="274" height="281" frameX="-140" frameY="-249" frameWidth="576" frameHeight="720" />
+</TextureAtlas>

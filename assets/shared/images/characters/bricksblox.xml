@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bricksblox.png">
+<SubTexture name="bricksblox idle0000" x="566" y="0" width="471" height="628" frameX="-312" frameY="-200" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox idle0001" x="1041" y="634" width="465" height="626" frameX="-318" frameY="-202" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox idle0002" x="2161" y="625" width="463" height="623" frameX="-320" frameY="-205" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox left0000" x="0" y="1886" width="558" height="624" frameX="-237" frameY="-204" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox left0001" x="0" y="1261" width="560" height="625" frameX="-240" frameY="-203" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox left0002" x="560" y="1261" width="563" height="625" frameX="-250" frameY="-203" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox up0000" x="2161" y="1248" width="523" height="619" frameX="-275" frameY="-209" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox up0001" x="0" y="634" width="523" height="627" frameX="-269" frameY="-201" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox up0002" x="523" y="634" width="518" height="627" frameX="-265" frameY="-201" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox right0000" x="0" y="0" width="566" height="634" frameX="-293" frameY="-194" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox right0001" x="1595" y="0" width="566" height="626" frameX="-287" frameY="-202" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox right0002" x="1123" y="1261" width="575" height="625" frameX="-287" frameY="-203" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox down0000" x="2161" y="0" width="548" height="625" frameX="-284" frameY="-203" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox down0001" x="1595" y="626" width="548" height="626" frameX="-285" frameY="-202" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox down0002" x="1037" y="0" width="558" height="628" frameX="-285" frameY="-200" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="bricksblox miss0000" x="558" y="1886" width="502" height="336" frameX="-309" frameY="-505" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>
