@@ -54,6 +54,7 @@ class CreditsState extends MusicBeatState
 			['FloroPichuCat',		'FloroPichuCat',		'Artist',									 'https://twitter.com/FloroPichuCat',	'39640B'],
 			['Daily B-Sides GF Doodles',		'BSidesGF',		'Artist',									 'https://twitter.com/JustBsidesGF',	'5F00C2'],
 			['MarioTheSpartan',		'MarioTheSpartan',			'Composer, Artist',						 'https://twitter.com/MarioTheSpartan',	'D82714'],
+			['SuperFaMiO',		'SuperFaMiO',			'Artist',						 'https://twitter.com/Super_FaMiO',	'FF9000'],
 			['EmeraldIsHere',		'EmeraldIsHere',			'Composer',						 'https://twitter.com/JoeJoe_Emerald',	'008000']
 		];
 		
