@@ -48,10 +48,10 @@ function onCreatePost()
         setObjectCamera('credit', 'hud');
     end
     if songName == 'gunk' then
-        makeLuaSprite('credit', 'songcredits/weekbrickgang/g', 385, 720);
-        addLuaSprite('credit', false);
-        scaleObject('credit', 0.72, 0.7)
-        setObjectCamera('credit', 'hud');
+        makeLuaSprite('credit2', 'songcredits/weekbrickgang/g', 385, 720);
+        addLuaSprite('credit2', false);
+        scaleObject('credit2', 0.72, 0.7)
+        setObjectCamera('credit2', 'hud');
     end
     if songName == 'doze' then
         makeLuaSprite('credit', 'songcredits/weekbrickgang/d', 385, 720);
@@ -67,6 +67,12 @@ function onCreatePost()
     end
     if songName == 'tough-love' then
         makeLuaSprite('credit', 'songcredits/freeplay/tl', 385, 720);
+        addLuaSprite('credit', false);
+        scaleObject('credit', 0.72, 0.7)
+        setObjectCamera('credit', 'hud');
+    end
+    if songName == 'medicine' then
+        makeLuaSprite('credit', 'songcredits/freeplay/m', 385, 720);
         addLuaSprite('credit', false);
         scaleObject('credit', 0.72, 0.7)
         setObjectCamera('credit', 'hud');
@@ -120,12 +126,6 @@ function onCreatePost()
         scaleObject('credit', 0.72, 0.7)
         setObjectCamera('credit', 'hud');
     end
-    if songName == 'hoopla' then
-        makeLuaSprite('credit', 'songcredits/freeplay/h', 385, 720);
-        addLuaSprite('credit', false);
-        scaleObject('credit', 0.72, 0.7)
-        setObjectCamera('credit', 'hud');
-    end
     if songName == 'rave' then
         makeLuaSprite('credit', 'songcredits/freeplay/ra', 385, 720);
         addLuaSprite('credit', false);
@@ -140,6 +140,18 @@ function onCreatePost()
     end
     if songName == 'brickbattle' then
         makeLuaSprite('credit', 'songcredits/freeplay/brba', 385, 720);
+        addLuaSprite('credit', false);
+        scaleObject('credit', 0.72, 0.7)
+        setObjectCamera('credit', 'hud');
+    end
+    if songName == 'content-deleted' then
+        makeLuaSprite('creditcd', 'songcredits/freeplay/code', 385, 720);
+        addLuaSprite('creditcd', false);
+        scaleObject('creditcd', 0.72, 0.7)
+        setObjectCamera('creditcd', 'hud');
+    end
+    if songName == 'stratum' then
+        makeLuaSprite('credit', 'songcredits/freeplay/s', 385, 720);
         addLuaSprite('credit', false);
         scaleObject('credit', 0.72, 0.7)
         setObjectCamera('credit', 'hud');
@@ -202,30 +214,35 @@ function onCreatePost()
         function onStepHit()
             if curStep == 1273 then
                 doTweenY('credittween1', 'mts', 200, 1.1, 'quadOut')
+                setProperty('health', 1);
             end
             if curBeat > 326 then
                 doTweenY('credittween1', 'mts', 720, 0.7, 'quadOut')
             end
             if curStep == 1921 then
                 doTweenY('credittween2', 'citrussire', 200, 1.1, 'quadOut')
+                setProperty('health', 1);
             end
             if curBeat > 492 then
                 doTweenY('credittween2', 'citrussire', -720, 0.7, 'quadOut')
             end
             if curStep == 3225 then
                 doTweenY('credittween3', 'southdakota', 200, 1.1, 'quadOut')
+                setProperty('health', 1);
             end
             if curBeat > 813 then
                 doTweenY('credittween3', 'southdakota', 720, 0.7, 'quadOut')
             end
             if curStep == 4089 then
                 doTweenY('credittween4', 'maddix', 200, 1.1, 'quadOut')
+                setProperty('health', 1);
             end
             if curBeat > 1030 then
                 doTweenY('credittween4', 'maddix', -720, 0.7, 'quadOut')
             end
             if curStep == 5497 then
                 doTweenY('credittween5', 'gorbini', 200, 1.1, 'quadOut')
+                setProperty('health', 1);
             end
             if curBeat > 1382 then
                 doTweenY('credittween5', 'gorbini', 720, 0.7, 'quadOut')
@@ -244,4 +261,18 @@ function onBeatHit()
     if curBeat > 1 then
         doTweenY('credittween', 'credit', -720, 1.1, 'quadOut')
     end
+    if songName == 'gunk' then
+        if curBeat == 96 then
+            doTweenY('credittween2', 'credit2', 200, 0.7, 'quadOut')
+        end
+        if curBeat > 102 then
+            if curBeat > 1 then
+                doTweenY('credittween2', 'credit2', -720, 1.1, 'quadOut')
+            end
+        end
+    end
+end
+
+function onCreate()
+    precacheImage('stages/tiktok/bg')
 end

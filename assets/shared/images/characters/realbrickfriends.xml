@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="realbrickfriends.png">
+<SubTexture name="idle0000" x="900" y="0" width="918" height="595" frameX="-251" frameY="-495" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0001" x="0" y="0" width="900" height="598" frameX="-265" frameY="-479" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0002" x="0" y="598" width="860" height="576" frameX="-293" frameY="-474" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0003" x="0" y="598" width="860" height="576" frameX="-293" frameY="-474" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

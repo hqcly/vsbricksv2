@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-3
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "confirm"
+		},
+		{
+			"offsets": [
+				4,
+				-3
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "loop"
+		},
+		{
+			"offsets": [
+				4,
+				-3
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "dead"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bricks-roblox-dead",
+	"position": [
+		20,
+		-10
+	],
+	"healthicon": "bricksroblox",
+	"flip_x": true,
+	"healthbar_colors": [
+		7,
+		104,
+		173
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

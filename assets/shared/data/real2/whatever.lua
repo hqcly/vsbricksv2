@@ -2,7 +2,7 @@ function onCreatePost()
     makeLuaSprite('yellow', '', -200, -200)
     makeGraphic('yellow', 1280, 720, 'FFF000')
     addLuaSprite('yellow', false);
-    setLuaSpriteScrollFactor('yellow', 0, 0)
+    setScrollFactor('yellow', 0, 0)
     scaleObject('yellow', 3, 3);
 
     makeLuaSprite('logo', 'stages/doxxed/screencast', 0, 650);
@@ -14,9 +14,23 @@ function onCreatePost()
     scaleObject('sandy', 0.7, 0.7)
 	addLuaSprite('sandy', false);
     doTweenAlpha('sandyvisible', 'sandy', 0.001, 0.001)
+
+    makeLuaSprite('brick', 'characters/bricksreal', defaultOpponentX - 80, -600);
+    scaleObject('brick', 0.4, 0.4)
+    addLuaSprite('brick', true);
 end
 
 function onBeatHit()
+    if curBeat == 10 then
+        doTweenY('brickfall', 'brick', 320, 0.25, 'bounceOut')
+        doTweenY('SQUASHY', 'dad.scale', 0.8, 0.9, 'expoOut')
+        doTweenX('SQUASHX', 'dad.scale', 2.1, 0.9, 'expoOut')
+        doTweenY('movedown', 'dad', -20, 0.9, 'expoOut')
+    end
+    if curBeat >= 32 then
+        removeLuaSprite('brick', true)
+
+    end
     if curBeat >= 48 then
         removeLuaSprite('yellow', true)
         removeLuaSprite('logo', true)
@@ -40,4 +54,3 @@ function onBeatHit()
         doTweenAlpha('sandyvisible', 'sandy', 0.001, 0.5)
     end
 end
-

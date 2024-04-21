@@ -1,9 +1,10 @@
 function onCreate()
-	makeLuaSprite('bg', 'stages/tiktok/bg', -63, 0);
+	makeAnimatedLuaSprite('bg', 'stages/tiktok/bg', -2, 0); 
 	addLuaSprite('bg', true);
+	addAnimationByPrefix('bg', 'bg idle', 'bg idle', 15, true)
 
 	makeLuaSprite('room', 'stages/tiktok/room', 0, 0);
-	setLuaSpriteScrollFactor('room', 1, 1);
+	setScrollFactor('room', 1, 1);
 	scaleObject('room', 1, 1);
 	addLuaSprite('room', false);
 

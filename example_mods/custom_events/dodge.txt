@@ -1,0 +1,7 @@
+dodge event you dodge you just dodge it press space
+
+value 1: the amount of beats you have to dodge
+
+value 2: the pitch of the beep, set to 0 to silence
+
+skill issue; this cannot overlap

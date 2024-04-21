@@ -45,15 +45,16 @@ class CreditsState extends MusicBeatState
 			['Reese',				'Reese',			'Artist',						 'https://www.youtube.com/channel/UCDQvXfOtdPc6YUMIo6kFHUQ',		'FF0000'],
 			['Anyawuu',			'Anyawuu',				'Artist, Charter',							 'https://twitter.com/Anyawuu',			'8E122B'],
 			['CitrusSire',			'CitrusSire',				'Composer',							 'https://twitter.com/CitrusSire',			'FFFF00'],
+			['Mad',			'Mad',				'Composer',							 'https://twitter.com/madzumixx',			'00CE2F'],			
 			['Gorbini',				'Gorbini',					'Charter, Composer, Artist',	 'https://twitter.com/Gorbini3D',									'DB0000'],
-			['yuyuop',			'yuyuop',		'Composer',				 'https://twitter.com/yuyuop_',		'A801FC'],
 			['ActuallyMaddix',			'Maddix',		'Composer, Artist, Charter',				 'https://twitter.com/ActuallyMaddix',		'510D8D'],
 			['CallMeCattail',			'CallMeCattail',		'Artist',				 'https://twitter.com/CallMeCattail',		'01EAFB'],
+			['SSSStudios',			'SSSStudios',		'Coder',				 'https://www.youtube.com/@TrueSSSStudios',		'14CD3E'],
 			['South Dakota',				'SouthDakota',			'Composer',				 'https://twitter.com/SoutDakobla',			'5865F2'],
 			['SkylarSpeaking',			'SkylarSpeaking',			'Artist, VA', 'https://twitter.com/JillianSpeaking',		'ebdf7e'],
 			['FloroPichuCat',		'FloroPichuCat',		'Artist',									 'https://twitter.com/FloroPichuCat',	'39640B'],
 			['Daily B-Sides GF Doodles',		'BSidesGF',		'Artist',									 'https://twitter.com/JustBsidesGF',	'5F00C2'],
-			['MarioTheSpartan',		'MarioTheSpartan',			'Composer, Artist',						 'https://twitter.com/MarioTheSpartan',	'D82714'],
+			['MarioTheSpartan',		'MarioTheSpartan',			'Composer, Artist, 3D Modeler',						 'https://twitter.com/MarioTheSpartan',	'D82714'],
 			['SuperFaMiO',		'SuperFaMiO',			'Artist',						 'https://twitter.com/Super_FaMiO',	'FF9000'],
 			['EmeraldIsHere',		'EmeraldIsHere',			'Composer',						 'https://twitter.com/JoeJoe_Emerald',	'008000']
 		];

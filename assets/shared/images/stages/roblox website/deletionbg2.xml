@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deletionbg2.png">
+<SubTexture name="moving0000" x="0" y="0" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0001" x="300" y="0" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0002" x="0" y="300" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0003" x="300" y="300" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0004" x="600" y="0" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0005" x="600" y="300" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0006" x="0" y="600" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0007" x="300" y="600" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0008" x="600" y="600" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0009" x="900" y="0" width="269" height="300" frameX="-22" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0010" x="1169" y="0" width="279" height="300" frameX="-17" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0011" x="0" y="900" width="288" height="300" frameX="-12" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0012" x="288" y="900" width="293" height="300" frameX="-7" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0013" x="581" y="900" width="299" height="300" frameX="-1" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0014" x="880" y="900" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0015" x="0" y="1500" width="300" height="272" frameX="0" frameY="-28" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0016" x="1748" y="1177" width="300" height="279" frameX="0" frameY="-21" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0017" x="1748" y="891" width="300" height="286" frameX="0" frameY="-14" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0018" x="1748" y="596" width="300" height="295" frameX="0" frameY="-5" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0019" x="1448" y="0" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0020" x="1448" y="300" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0021" x="1448" y="600" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0022" x="1448" y="900" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0023" x="0" y="1200" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0024" x="900" y="1200" width="300" height="298" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0025" x="1200" y="1200" width="300" height="298" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0026" x="1748" y="0" width="300" height="298" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0027" x="1748" y="298" width="300" height="298" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0028" x="600" y="1200" width="300" height="299" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="moving0029" x="300" y="1200" width="300" height="300" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bricks-cd2test.png">
+<SubTexture name="idle0000" x="0" y="0" width="598" height="1130" frameX="-445" frameY="-221" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0000" x="2101" y="0" width="679" height="1102" frameX="-391" frameY="-238" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0000" x="1434" y="0" width="667" height="1123" frameX="-346" frameY="-227" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0000" x="598" y="0" width="836" height="1126" frameX="-340" frameY="-222" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0000" x="0" y="1130" width="719" height="1082" frameX="-365" frameY="-267" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

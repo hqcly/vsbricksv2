@@ -6437,8 +6437,9 @@
 				]
 			]
 		],
-		"player2": "baller",
+		"player2": "bsides-gf",
 		"disableNoteRGB": true,
+		"gameOverChar": "twittergameover",
 		"splashSkin": "BrickNoteSplashes",
 		"song": "daily",
 		"stage": "twitter",

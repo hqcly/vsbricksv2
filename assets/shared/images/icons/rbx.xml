@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rbx.png">
+<SubTexture name="normal0000" x="303" y="0" width="83" height="106" frameX="-32" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="normal0001" x="303" y="106" width="83" height="106" frameX="-32" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="normal0002" x="0" y="246" width="83" height="106" frameX="-32" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="normal0003" x="83" y="246" width="83" height="106" frameX="-32" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="normal0004" x="303" y="106" width="83" height="106" frameX="-32" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="normal0005" x="166" y="246" width="83" height="106" frameX="-32" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="normal0006" x="249" y="246" width="83" height="106" frameX="-32" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="normal0007" x="166" y="246" width="83" height="106" frameX="-32" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0000" x="0" y="0" width="101" height="123" frameX="-13" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0001" x="101" y="0" width="101" height="123" frameX="-13" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0002" x="202" y="0" width="101" height="123" frameX="-13" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0003" x="0" y="123" width="101" height="123" frameX="-13" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0004" x="101" y="123" width="101" height="123" frameX="-13" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0005" x="202" y="123" width="101" height="123" frameX="-13" frameY="-7" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				12,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 12,
-			"name": "skcrib idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "skcrib idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				9,
 				3
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 12,
-			"name": "skcrib left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skcrib left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				2
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 12,
-			"name": "skcrib right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skcrib right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				12,
 				0
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 12,
-			"name": "skcrib up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "skcrib up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				12,
 				1
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 12,
-			"name": "skcrib down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skcrib down"
 		}
 	],
 	"vocals_file": "",
@@ -63,7 +63,7 @@
 		-105,
 		40
 	],
-	"healthicon": "skcirb",
+	"healthicon": "skcrib-old",
 	"flip_x": false,
 	"healthbar_colors": [
 		30,

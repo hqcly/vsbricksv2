@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goanibricks.png">
+<SubTexture name="idle0000" x="451" y="0" width="225" height="503" frameX="-59" frameY="-71" frameWidth="308" frameHeight="600" />
+<SubTexture name="idle0001" x="226" y="0" width="225" height="510" frameX="-55" frameY="-64" frameWidth="308" frameHeight="600" />
+<SubTexture name="idle0002" x="0" y="0" width="226" height="520" frameX="-49" frameY="-55" frameWidth="308" frameHeight="600" />
+<SubTexture name="idle0003" x="0" y="0" width="226" height="520" frameX="-49" frameY="-55" frameWidth="308" frameHeight="600" />
+</TextureAtlas>

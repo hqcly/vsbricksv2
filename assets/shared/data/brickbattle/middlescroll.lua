@@ -15,10 +15,16 @@ function onCountdownTick(counter)
 end
 
 function onBeatHit()
-    if curBeat > 63.9 then
+    if curBeat >= 63.9 then
 		noteTweenAlpha('look0', 0, 1, 0.1, sineOut)
 		noteTweenAlpha('look1', 1, 1, 0.1, sineOut)
 		noteTweenAlpha('look2', 2, 1, 0.1, sineOut)
 		noteTweenAlpha('look3', 3, 1, 0.1, sineOut)
+	if middlescroll then
+		noteTweenAlpha('look0', 0, 0.35, 0.1)
+		noteTweenAlpha('look1', 1, 0.35, 0.1)
+		noteTweenAlpha('look2', 2, 0.35, 0.1)
+		noteTweenAlpha('look3', 3, 0.35, 0.1)
+	end
 	end
 end

@@ -8,11 +8,6 @@
 						"Cinematics",
 						"1",
 						""
-					],
-					[
-						"Change Scroll Speed",
-						"0.7",
-						"0"
 					]
 				]
 			],
@@ -22,7 +17,7 @@
 					[
 						"Change Character",
 						"dad",
-						"skcrib"
+						"skcirb-new"
 					],
 					[
 						"Cinematics",
@@ -36,7 +31,7 @@
 					],
 					[
 						"Change Scroll Speed",
-						"1.15",
+						"1.3",
 						"0"
 					]
 				]

@@ -4,7 +4,7 @@ function onCreate()
 
 	makeLuaSprite('apple', 'credits/image', 0, 0);
 	addLuaSprite('apple', true);
-	setLuaSpriteScrollFactor('apple', -1, -2);
+	setScrollFactor('apple', -1, -2);
 	doTweenAlpha('applesee', 'apple', 0.001, 0.001)
 	scaleObject('apple', 0.15, 0.15)
 

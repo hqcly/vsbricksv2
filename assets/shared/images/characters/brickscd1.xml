@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brickscd1.png">
+<SubTexture name="idle0000" x="1632" y="3457" width="796" height="775" frameX="-307" frameY="-369" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0001" x="822" y="3457" width="810" height="782" frameX="-302" frameY="-356" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0002" x="0" y="3457" width="822" height="798" frameX="-297" frameY="-336" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0003" x="2874" y="2644" width="834" height="804" frameX="-291" frameY="-324" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="idle0004" x="2874" y="2644" width="834" height="804" frameX="-291" frameY="-324" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0000" x="0" y="1800" width="774" height="844" frameX="-404" frameY="-352" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0001" x="774" y="1800" width="791" height="844" frameX="-385" frameY="-337" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0002" x="1565" y="1800" width="805" height="844" frameX="-364" frameY="-326" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="right0003" x="1565" y="1800" width="805" height="844" frameX="-364" frameY="-326" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks right Miss0000" x="0" y="0" width="607" height="943" frameX="-453" frameY="-322" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks right Miss0001" x="607" y="0" width="607" height="938" frameX="-447" frameY="-327" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks right Miss0002" x="607" y="0" width="607" height="938" frameX="-447" frameY="-327" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0000" x="0" y="2644" width="1026" height="813" frameX="-208" frameY="-333" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0001" x="3424" y="1656" width="962" height="809" frameX="-226" frameY="-330" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0002" x="1026" y="2644" width="864" height="808" frameX="-270" frameY="-320" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="up0003" x="1026" y="2644" width="864" height="808" frameX="-270" frameY="-320" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks up Miss0000" x="3424" y="0" width="984" height="832" frameX="-206" frameY="-296" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks up Miss0001" x="1890" y="2644" width="984" height="807" frameX="-206" frameY="-321" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks up Miss0002" x="1890" y="2644" width="984" height="807" frameX="-206" frameY="-321" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0000" x="3424" y="832" width="785" height="824" frameX="-319" frameY="-373" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0001" x="1916" y="0" width="750" height="845" frameX="-332" frameY="-357" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0002" x="0" y="943" width="705" height="857" frameX="-352" frameY="-332" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="down0003" x="705" y="943" width="705" height="857" frameX="-352" frameY="-332" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks down Miss0000" x="2666" y="0" width="758" height="844" frameX="-322" frameY="-353" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks down Miss0001" x="1214" y="0" width="702" height="858" frameX="-351" frameY="-338" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks down Miss0002" x="1214" y="0" width="702" height="858" frameX="-351" frameY="-338" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0000" x="2428" y="3457" width="679" height="763" frameX="-376" frameY="-381" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0001" x="3708" y="2644" width="679" height="785" frameX="-385" frameY="-353" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0002" x="1916" y="845" width="679" height="796" frameX="-401" frameY="-332" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="left0003" x="1916" y="845" width="679" height="796" frameX="-401" frameY="-332" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks left Miss0000" x="2666" y="1645" width="690" height="800" frameX="-375" frameY="-333" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks left Miss0001" x="2666" y="844" width="686" height="801" frameX="-395" frameY="-332" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bricks left Miss0002" x="2666" y="844" width="686" height="801" frameX="-395" frameY="-332" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

@@ -5,7 +5,7 @@ function onCreate()
 
 	makeLuaSprite('void', '', 0, 0);
 	makeGraphic('void', 1280, 720,'000000')
-	setLuaSpriteScrollFactor('void', 1, 1);
+	setScrollFactor('void', 1, 1);
 	  addLuaSprite('void', true);
 	  setObjectCamera('void','hud')
 	  doTweenAlpha('voidtween', 'void', 0.01, 0.1, linear)
